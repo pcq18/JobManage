@@ -1,0 +1,9 @@
+D:\AllProject\JobManage\JobManage.Core\bin\Release\netcoreapp3.1\JobManage.Core.deps.json
+D:\AllProject\JobManage\JobManage.Core\bin\Release\netcoreapp3.1\JobManage.Core.dll
+D:\AllProject\JobManage\JobManage.Core\bin\Release\netcoreapp3.1\JobManage.Core.pdb
+D:\AllProject\JobManage\JobManage.Core\obj\Release\netcoreapp3.1\JobManage.Core.csprojAssemblyReference.cache
+D:\AllProject\JobManage\JobManage.Core\obj\Release\netcoreapp3.1\JobManage.Core.AssemblyInfoInputs.cache
+D:\AllProject\JobManage\JobManage.Core\obj\Release\netcoreapp3.1\JobManage.Core.AssemblyInfo.cs
+D:\AllProject\JobManage\JobManage.Core\obj\Release\netcoreapp3.1\JobManage.Core.csproj.CoreCompileInputs.cache
+D:\AllProject\JobManage\JobManage.Core\obj\Release\netcoreapp3.1\JobManage.Core.dll
+D:\AllProject\JobManage\JobManage.Core\obj\Release\netcoreapp3.1\JobManage.Core.pdb
